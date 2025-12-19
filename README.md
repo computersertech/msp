@@ -11,6 +11,7 @@ Our service entails a customized proposal to the needs of your company to guaran
   <li>Microsoft 365 Installation, Security, Administration, and Implementation</li>
   <li>Windows Servers, Windows Operating Systems Installation, and Configuration</li>
   <li>Cybersecurity Assessment, Implementation, and Monitoring</li>
+  <li>Vulnerability and Compliance Management</li> 
   <li>Architecture and Design Solution</li>
   <li>Remote Monitoring & Management (RMM)</li>
   <li>Mobile Device Management (MDM)</li>
