@@ -15,7 +15,7 @@ Our service entails a customized proposal to the needs of your company to guaran
   <li>Remote Monitoring & Management (RMM)</li>
   <li>Mobile Device Management (MDM)</li>
   <li>Desktop, Laptop, and Printer Hardware and Software Setup</li>
-  <li>Routers and Switches Console Configuration/Updates</li>
+  <li>Routers, Switches Console Configuration, and Updates</li>
   <li>Firewall Configuration and Monitoring</li>
   <li>Data Center Rack and Network Setup</li>
   <li>Azure Active Directory Administration and Azure Virtual Desktop</li>
