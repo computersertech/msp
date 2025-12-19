@@ -1,5 +1,5 @@
 # 💡 CST is a leading IT Managed Service Provider (MSP) 
-We deliver a wide range of IT solutions to businesses of all sizes, and specialize in providing comprehensive IT support, including helpdesk services, network management, cloud development, cybersecurity, backup, and disaster recovery.
+Computer Services Tech deliver a wide range of IT solutions to businesses of all sizes, and specialize in providing comprehensive IT support, including helpdesk services, network management, cloud development, cybersecurity, backup, and disaster recovery.
 
 # 💻 Professional Summary
 Our service entails a customized proposal to the needs of your company to guarantee solutions that fit the needs and problems you face in all of your endeavors. We accomplish this with a collaborative approach to gain the best insight into the needs of your company and then tailor our services to meet those needs.
