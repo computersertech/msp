@@ -24,5 +24,9 @@ Our service entails a customized proposal to the needs of your company to guaran
   <li>Mobile, Tablet Installation, and Configuration</li>
   <li>Wi-Fi Installation and Configuration</li>
   <li>VOIP and Phone Systems Management</li>
+  <li>Software and Website Development
   <li>Office Move and Deployment</li>
-
+  <li>Onsite and Service Call US Support</li>
+  <li>Short Term and Long Term Assignments</li>
+  <li>Contract and Direct Hire Recruitment</li>
+  <li>Global Remote Troubleshooting</li>
